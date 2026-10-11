@@ -8,3 +8,5 @@
 2026-10-06 — GitHub Actions workflow green.
 2026-10-07 — login page object, CI green.
 2026-10-08 — locked-out login test, CI green
+2026-10-11
+- Jenkins pipeline green locally. Browsers installed without root.
