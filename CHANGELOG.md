@@ -10,3 +10,4 @@
 2026-10-08 — locked-out login test, CI green
 2026-10-11
 - Jenkins pipeline green locally. Browsers installed without root.
+2026-10-12 — API status check, CI green.
