@@ -11,3 +11,5 @@
 2026-10-11
 - Jenkins pipeline green locally. Browsers installed without root.
 2026-10-12 — API status check, CI green.
+2026-10-14 — POST returns 201, CI green.
+2026-10-15 — cart page object, CI green.
