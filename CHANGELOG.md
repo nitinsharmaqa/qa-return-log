@@ -14,3 +14,4 @@
 2026-10-14 — POST returns 201, CI green.
 2026-10-15 — cart page object, CI green.
 2026-10-16 — checkout cart assertion, CI green.
+2026-10-17 — README rewritten for reviewers.
