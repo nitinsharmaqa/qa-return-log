@@ -16,3 +16,5 @@
 2026-10-16 — checkout cart assertion, CI green.
 2026-10-17 — README rewritten for reviewers.
 2026-10-18 — sample spec removed. Suite is owned tests only.
+
+2026-10-20 — negative API note. Fake API still returns 201.
