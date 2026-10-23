@@ -15,8 +15,10 @@
 2026-10-15 — cart page object, CI green.
 2026-10-16 — checkout cart assertion, CI green.
 2026-10-17 — README rewritten for reviewers.
-2026-10-18 — sample spec removed. Suite is owned tests only.
+## 2026-10-18 — sample spec removed. Suite is owned tests only.
 
 2026-10-20 — negative API note. Fake API still returns 201.
 ## 2026-10-21
 - Jenkins pipeline green locally. Build #3. Screenshot in images/jenkins-green.png.
+## 2026-10-23
+- api-suite started. First health check, CI green.
