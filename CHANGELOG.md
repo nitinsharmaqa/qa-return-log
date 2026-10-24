@@ -22,3 +22,5 @@
 - Jenkins pipeline green locally. Build #3. Screenshot in images/jenkins-green.png.
 ## 2026-10-23
 - api-suite started. First health check, CI green.
+## 2026-10-24
+- api-suite auth token check, CI green.
