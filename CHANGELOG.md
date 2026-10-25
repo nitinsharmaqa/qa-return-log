@@ -24,3 +24,6 @@
 - api-suite started. First health check, CI green.
 ## 2026-10-24
 - api-suite auth token check, CI green.
+## 2026-10-25
+- api-suite create booking returns an id, CI green.
+- api-suite unknown booking returns 404, CI green.
