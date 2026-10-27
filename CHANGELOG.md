@@ -27,3 +27,5 @@
 ## 2026-10-25
 - api-suite create booking returns an id, CI green.
 - api-suite unknown booking returns 404, CI green.
+## 2026-10-27
+- api-suite wrong password returns no token, CI green.
