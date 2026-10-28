@@ -29,3 +29,5 @@
 - api-suite unknown booking returns 404, CI green.
 ## 2026-10-27
 - api-suite wrong password returns no token, CI green.
+## 2026-10-28
+- api-suite README for reviewers, CI green.
