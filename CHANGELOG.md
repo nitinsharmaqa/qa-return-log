@@ -31,3 +31,5 @@
 - api-suite wrong password returns no token, CI green.
 ## 2026-10-28
 - api-suite README for reviewers, CI green.
+## 2026-10-29
+- api-suite runs in Docker, CI green.
