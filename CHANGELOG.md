@@ -35,4 +35,6 @@
 - api-suite runs in Docker, CI green.
 
 ## 2026-10-30
-- api-suite README explains how to open a trace.
+- api-suite README explains how to open a trace..
+## 2026-10-30
+- qa-showcase index of the public repos.
