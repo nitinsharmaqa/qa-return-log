@@ -33,3 +33,6 @@
 - api-suite README for reviewers, CI green.
 ## 2026-10-29
 - api-suite runs in Docker, CI green.
+
+## 2026-10-30
+- api-suite README explains how to open a trace.
