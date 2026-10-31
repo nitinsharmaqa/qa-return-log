@@ -38,3 +38,5 @@
 - api-suite README explains how to open a trace..
 ## 2026-10-30
 - qa-showcase index of the public repos.
+## 2026-10-31
+- pw-ts-framework login fixture used by the cart test.
