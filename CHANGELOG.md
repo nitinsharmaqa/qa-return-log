@@ -40,3 +40,5 @@
 - qa-showcase index of the public repos.
 ## 2026-10-31
 - pw-ts-framework login fixture used by the cart test.
+## 2026-11-01
+- checkout uses the login fixture. Login is written once.
