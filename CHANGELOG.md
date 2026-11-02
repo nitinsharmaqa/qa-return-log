@@ -42,3 +42,5 @@
 - pw-ts-framework login fixture used by the cart test.
 ## 2026-11-01
 - checkout uses the login fixture. Login is written once.
+## 2026-11-02
+- Checkout form and overview assertion. Login still comes from the fixture.
