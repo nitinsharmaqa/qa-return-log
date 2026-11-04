@@ -46,3 +46,5 @@
 - Checkout form and overview assertion. Login still comes from the fixture.
 ## 2026-11-03
 - Order complete assertion. Same login fixture and checkout page.
+## 2026-11-04
+- Missing postal code shows an error. Same checkout page.
