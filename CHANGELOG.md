@@ -48,3 +48,5 @@
 - Order complete assertion. Same login fixture and checkout page.
 ## 2026-11-04
 - Missing postal code shows an error. Same checkout page.
+## 2026-11-05
+- Missing last name shows an error.
