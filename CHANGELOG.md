@@ -50,3 +50,5 @@
 - Missing postal code shows an error. Same checkout page.
 ## 2026-11-05
 - Missing last name shows an error.
+## 2026-11-06
+- Missing last name error.
