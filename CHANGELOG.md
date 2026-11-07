@@ -52,3 +52,5 @@
 - Missing last name shows an error.
 ## 2026-11-06
 - Missing last name error.
+## 2026-11-07
+- Can explain fixture, locked-out user, payment checks, Docker node.exe, and the gap.
