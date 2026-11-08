@@ -54,3 +54,5 @@
 - Missing last name error.
 ## 2026-11-07
 - Can explain fixture, locked-out user, payment checks, Docker node.exe, and the gap.
+## 2026-11-08
+- Java 21, Maven 3.10, first REST Assured auth check.
