@@ -58,3 +58,5 @@
 - Java 21, Maven 3.10, first REST Assured auth check.
 ## 2026-11-09
 - REST Assured wrong password returns no token.
+## 2026-11-10
+- Suite rules file. Applied the gate idea from the agentic pipeline diagram.
