@@ -60,3 +60,5 @@
 - REST Assured wrong password returns no token.
 ## 2026-11-10
 - Suite rules file. Applied the gate idea from the agentic pipeline diagram.
+## 2026-11-12
+- api-java README. Showcase lists the Java checks.
