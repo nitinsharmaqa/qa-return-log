@@ -62,3 +62,5 @@
 - Suite rules file. Applied the gate idea from the agentic pipeline diagram.
 ## 2026-11-12
 - api-java README. Showcase lists the Java checks.
+## 2026-11-14
+- api-java README. Showcase lists the Java checks.
