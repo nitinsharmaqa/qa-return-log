@@ -64,3 +64,5 @@
 - api-java README. Showcase lists the Java checks.
 ## 2026-11-14
 - api-java README. Showcase lists the Java checks.
+## 2026-11-18
+- api-java booking create. Asserts amount and that a repeated call returns a new id. README notes the idempotency gap.
