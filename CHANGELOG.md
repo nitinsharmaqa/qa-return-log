@@ -68,3 +68,6 @@
 - api-java booking create. Asserts amount and that a repeated call returns a new id. README notes the idempotency gap.
 ## 2026-11-19
 - api-java: negative totalprice create check. Observed status recorded in the test. README notes that a payment endpoint must reject it.
+## 2026-11-24
+- api-java Actions confirmed green on negative-totalprice check.
+- Observed status recorded in test comment.
