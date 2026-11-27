@@ -71,3 +71,6 @@
 ## 2026-11-24
 - api-java Actions confirmed green on negative-totalprice check.
 - Observed status recorded in test comment.
+## 2026-11-27
+- Added topics and descriptions to api-java and pw-ts-framework.
+- Expanded api-java README with three explicit interview notes (amount, idempotency, negative amount).
